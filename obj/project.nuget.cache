@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "II0tsyYADPCD1VvKGe/dI2rNXY0t/LkOi4AJZ8dLBxV8jha0J2JzCHCEsGF1ImiDTMvLqk9Ie2QUQMFRYGpQ4Q==",
+  "success": true,
+  "projectFilePath": "G:\\Progress soft\\Q4 Progress soft\\Q4 Progress soft.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mohammed\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\mohammed\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

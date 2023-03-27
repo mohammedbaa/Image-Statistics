@@ -1,0 +1,20 @@
+G:\Progress soft\Q4 Progress soft\bin\Debug\net7.0\Q4 Progress soft.exe
+G:\Progress soft\Q4 Progress soft\bin\Debug\net7.0\Q4 Progress soft.deps.json
+G:\Progress soft\Q4 Progress soft\bin\Debug\net7.0\Q4 Progress soft.runtimeconfig.json
+G:\Progress soft\Q4 Progress soft\bin\Debug\net7.0\Q4 Progress soft.dll
+G:\Progress soft\Q4 Progress soft\bin\Debug\net7.0\Q4 Progress soft.pdb
+G:\Progress soft\Q4 Progress soft\obj\Debug\net7.0\Q4 Progress soft.csproj.AssemblyReference.cache
+G:\Progress soft\Q4 Progress soft\obj\Debug\net7.0\Q4 Progress soft.GeneratedMSBuildEditorConfig.editorconfig
+G:\Progress soft\Q4 Progress soft\obj\Debug\net7.0\Q4 Progress soft.AssemblyInfoInputs.cache
+G:\Progress soft\Q4 Progress soft\obj\Debug\net7.0\Q4 Progress soft.AssemblyInfo.cs
+G:\Progress soft\Q4 Progress soft\obj\Debug\net7.0\Q4 Progress soft.csproj.CoreCompileInputs.cache
+G:\Progress soft\Q4 Progress soft\obj\Debug\net7.0\Q4 Progress soft.dll
+G:\Progress soft\Q4 Progress soft\obj\Debug\net7.0\refint\Q4 Progress soft.dll
+G:\Progress soft\Q4 Progress soft\obj\Debug\net7.0\Q4 Progress soft.pdb
+G:\Progress soft\Q4 Progress soft\obj\Debug\net7.0\Q4 Progress soft.genruntimeconfig.cache
+G:\Progress soft\Q4 Progress soft\obj\Debug\net7.0\ref\Q4 Progress soft.dll
+G:\Progress soft\Q4 Progress soft\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+G:\Progress soft\Q4 Progress soft\bin\Debug\net7.0\System.Drawing.Common.dll
+G:\Progress soft\Q4 Progress soft\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+G:\Progress soft\Q4 Progress soft\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+G:\Progress soft\Q4 Progress soft\obj\Debug\net7.0\Q4 Progress soft.csproj.CopyComplete
